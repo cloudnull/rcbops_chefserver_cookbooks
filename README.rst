@@ -33,8 +33,8 @@ Configuration Options
 The script has a bunch of override variables that can be set in script or as environment variables.
 
 
-Set this to override the RCBOPS Developer Mode, DEFAULT is False:
-  DEVELOPER_MODE=True or False
+Set this to override the Cookbook version, DEFAULT is "v4.1.2":
+  COOKBOOK_VERSION=""
 
 Set this to override the chef default password, DEFAULT is "Random Things":
   CHEF_PW=""
